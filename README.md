@@ -82,7 +82,12 @@ Parents
 - Web-based accessibility
 
 ## Author
-Irfan Muhammad Mohd Faizal
+Muhammad Hadi Bin Zakaria
+Atikah Nabilah Binti Shukri
+Irfan Muhammad Bin Mohd Faizal
+Mohamad Syauki Hafizad Bin Rani
+Ahmed Salman Al – Farisi Bin Harizu
+
 
 Diploma in Software Engineering (Software Testing)
 German-Malaysian Institute (GMI)
