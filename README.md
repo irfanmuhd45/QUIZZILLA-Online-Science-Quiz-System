@@ -74,6 +74,12 @@ Email Notification Service
 Parents
 ```
 
+<img width="708" height="387" alt="image" src="https://github.com/user-attachments/assets/0107b9ed-18cf-4f48-ba04-24cb46b9a3fd" />
+<img width="708" height="386" alt="image" src="https://github.com/user-attachments/assets/b5ef335c-38c4-44da-bf49-78d239e820a0" />
+<img width="708" height="386" alt="image" src="https://github.com/user-attachments/assets/b8082199-1802-4b89-bf8d-935ba52421fb" />
+<img width="708" height="398" alt="image" src="https://github.com/user-attachments/assets/6e9f5399-2c5d-4d24-9851-f1b897349e76" />
+
+
 ## Key Features
 - Automatic marking
 - Immediate result generation
