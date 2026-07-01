@@ -82,10 +82,10 @@ Parents
 - Web-based accessibility
 
 ## Author
-Muhammad Hadi Bin Zakaria
-Atikah Nabilah Binti Shukri
-Irfan Muhammad Bin Mohd Faizal
-Mohamad Syauki Hafizad Bin Rani
+Muhammad Hadi Bin Zakaria |
+Atikah Nabilah Binti Shukri |
+Irfan Muhammad Bin Mohd Faizal |
+Mohamad Syauki Hafizad Bin Rani |
 Ahmed Salman Al – Farisi Bin Harizu
 
 
